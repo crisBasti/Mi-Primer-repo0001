@@ -1,7 +1,7 @@
 
 
-// let nombre =  prompt('¿Cual es tu nombre?');
-// alert(`Hola ${nombre} , Hace Tu Pedido`);
+let nombre =  prompt('¿Cual es tu nombre?');
+alert(`Hola ${nombre} , Hace Tu Pedido`);
 
 let btnReg = document.querySelector('.btn-reg');
 
